@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Integration C#',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.amber,
+        primarySwatch: Colors.purple,
       ),
       home: LoginPage(),
     );
